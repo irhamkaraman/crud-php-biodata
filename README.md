@@ -26,7 +26,7 @@ This repository contains a simple web application for managing biodata records. 
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/irhamkaraman/crud-php-biodata.git
-    cd Form-Biodata-WebApp
+    cd curd-php-biodata
     ```
 
 2. Set up the database:
